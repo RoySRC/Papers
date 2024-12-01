@@ -1,2 +1,2 @@
 # Papers
-A Repository for class papers
+A Repository for research papers written as part of class projects.
